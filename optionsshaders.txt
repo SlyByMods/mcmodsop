@@ -1,0 +1,19 @@
+#Sat Nov 20 13:18:24 VET 2021
+shaderPack=OFF
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=false
+renderResMul=0.5
+shadowResMul=0.5
+handDepthMul=0.0625
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
